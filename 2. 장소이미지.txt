@@ -1,0 +1,32 @@
+번호
+#괴도단[A이재현,B:한유리,C:강윤재,D:백도원]
+0:기본,1:미소,2:웃음,3:화남,4:짜증
+
+
+
+# 야경
+
+high-rise rooftop at night, Seoul city skyline, neon lights below, glowing skyscrapers, moonlit sky, rooftop railing, wind-blown atmosphere, elegant mysterious urban night
+
+# 1층 휴개실
+
+scenery, no humans, anime background, detailed interior, wide shot, cozy shared living room, discreet hideout inside a Korean residential building, clean well-maintained interior, cream walls, warm wooden parquet floor, olive green fabric sofa, dark wooden shelves filled with books and collectibles, framed art prints, low wooden coffee table, cream area rug, warm ceiling lights, soft indirect lighting, leafy houseplant, sheer curtains, nighttime city view through window, casually cluttered surfaces, mugs and opened snack bags on table, half-read books, game controllers, jacket tossed over sofa arm, loosely folded blanket, slightly rumpled cushions, small jewelry case beside a coffee mug, comfortable lived-in atmosphere
+
+캐릭터 뽑는 용
+sitting on an olive green sofa, sofa backrest behind shoulders, cozy living room, softly blurred dark wooden bookshelf and leafy plant in background, warm ambient lighting, shallow depth of field
+
+# 3층 장비실
+
+scenery, no humans, anime background, detailed interior, wide shot, cozy equipment workshop inside a Korean residential building, clean well-maintained interior, cream walls, warm wooden parquet floor, warm ceiling lights, wooden shelving, large wooden workbench covered with scattered hand tools and mechanical parts, partially assembled gadgets, open device housings, small motors, circuit boards, loose screws in shallow trays, tangled cables on workbench, soldering station, articulated task lamp, open toolbox, sketches and handwritten notes, dark wood glass-front display cabinets against wall, completed gadgets neatly displayed on individual shelves, compact grappling devices, mechanical wrist devices, custom electronic equipment, warm display cabinet lighting, storage drawers beneath workbench, jacket draped over chair, coffee mug beside notebook, casually cluttered workspace, comfortable lived-in atmosphere
+
+
+캐릭터
+blurred workshop background, hints of wooden shelves and tools behind character, soft warm indoor lighting
+
+# 컴퓨터 작업실
+
+scenery, no humans, anime background, detailed interior, wide shot, cozy personalized computer room inside a Korean home, warm vintage-inspired decor, cream walls, walnut wooden floor, long dark walnut desk, olive green upholstered ergonomic chair, dual monitors with one landscape screen and one vertical screen, additional computer workstation along adjacent wall, computer screens displaying city maps and camera feeds, glass-sided PC tower with warm amber lighting, cream and forest green mechanical keyboard, dark green desk mat, headphones on wooden stand, walnut floating shelves above desk, small collectibles and retro electronics on shelves, neatly displayed spare keyboards, warm under-shelf lighting, brass desk lamp, leafy houseplants, framed vintage prints, olive green curtains, muted patterned rug, coffee mug, opened snack bag, handwritten notes beside keyboard, casually cluttered desk, clean well-maintained room, soft warm lighting, muted earthy colors, comfortable lived-in atmosphere
+
+
+캐릭터
+softly blurred computer workspace background, partial monitors displaying code behind character, dark walnut desk, radio equipment on wooden shelves, partially visible whiteboard with handwritten notes, cream walls, soft warm lighting, cozy lived-in atmosphere
